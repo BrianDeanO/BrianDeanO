@@ -4,9 +4,7 @@ My name is Brian Dean, and I am currently working towards earning a bachelor's d
 
 Before transferring to WSU Tri-Cities, I attended Columbia Basin College, where I earned an Associate's Degree in Computer Science.
 
-In the fall of 2022, I will be transferring to the Washington State University Tri-Cities computer science degree program.
-
-While attending WSU Tri-Cities, I am a part-time intern in a software development team at Pacific Northwest National Laboratory (PNNL).
+While attending WSU Tri-Cities, I am also a part-time intern working in a software development team at Pacific Northwest National Laboratory (PNNL).
 
 Within this internship, I consistently work with HTML, CSS, JavaScript, TypeScript, and React.
 
