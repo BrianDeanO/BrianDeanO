@@ -8,7 +8,7 @@ While attending WSU Tri-Cities, I am also a part-time intern working in a softwa
 
 Within this internship, I consistently work with JavaScript, React, and HTML/CSS.
 
-While I am gaining much experience in languages dedicated to web development, my two best languages to code in are C++.
+Through school, I also have strong understanding in C and C++.
 
 I also have experience programming in Java and using JavaFX, and with creating and working with relational database systems through SQL.
 
