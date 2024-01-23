@@ -6,9 +6,9 @@ Before transferring to WSU Tri-Cities, I attended Columbia Basin College, where 
 
 While attending WSU Tri-Cities, I am also a part-time intern working in a software development team at Pacific Northwest National Laboratory (PNNL).
 
-Within this internship, I consistently work with JavaScript, React, and HTML/CSS.
+Within this internship, I consistently work with React, TypeScript, JavaScript, and HTML/CSS.
 
-Through school, I also have strong understanding in C and C++.
+Through school, I also have strong understanding in C and C++ in the Linux environment.
 
 I also have experience programming in Java and using JavaFX, and with creating and working with relational database systems through SQL.
 
